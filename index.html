@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Citations Aléatoires</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Citation Aléatoire</h1>
+        <div id="quote" class="quote-style"></div>
+        <button id="generate">Générer une citation</button>
+        <label for="style-select">Choisissez un style :</label>
+        <select id="style-select">
+            <option value="quote-style">Style par défaut</option>
+            <option value="quote-style-2">Style alternatif</option>
+            
+        </select>
+    </div>
+    <div class="container">
+        <label for="custom-quote">Ajouter votre propre citation :</label>
+        <input type="text" id="custom-quote" placeholder="Entrez votre citation ici">
+        <button id="add-quote">Ajouter</button>
+    </div>
+    <div class="container">
+        <h2>Mes Citations Personnalisées</h2>
+        <ul id="custom-quote-list"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+

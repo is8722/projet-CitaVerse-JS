@@ -13,6 +13,19 @@ Cette application web simple vous permet de générer des citations aléatoires 
 - Ajout de vos propres citations personnalisées.
 - Suppression des citations personnalisées indésirables.
 
+## Utilisation
 
+# Générer une Citation
+- Cliquez sur le bouton "Générer une citation" pour afficher une citation aléatoire.
+- Vous verrez la citation s'afficher dans le cadre principal.
+# Choisir un Style
+- Utilisez le menu déroulant "Choisissez un style" pour sélectionner un style de citation.
+- Cela changera l'apparence de la citation.
+# Ajouter une Citation Personnalisée
+- Saisissez votre citation personnalisée dans le champ "Ajouter votre propre citation ici".
+- Cliquez sur le bouton "Ajouter" pour ajouter votre citation à la liste.
+# Supprimer une Citation Personnalisée
+- Chaque citation personnalisée ajoutée est accompagnée d'un bouton "Supprimer".
+- Cliquez sur ce bouton pour supprimer la citation de la liste.
 
 
